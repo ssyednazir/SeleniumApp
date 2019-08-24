@@ -12,6 +12,7 @@ namespace GitProject
         {
             Console.WriteLine("This is good");
             Console.WriteLine("Another test");
+
         }
     }
 }
