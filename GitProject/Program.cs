@@ -11,6 +11,7 @@ namespace GitProject
         static void Main(string[] args)
         {
             Console.WriteLine("This is good");
+            Console.WriteLine("Another test");
         }
     }
 }
